@@ -80,14 +80,6 @@
   box-sizing: border-box;
 }
 
-.welcome-section {
-  background: url('media/contact-form-background.svg') top/cover no-repeat;
-}
-
-.contact-section {
-  background: var(--bs-blue) url('media/contact-form-background.svg') center/cover no-repeat;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
