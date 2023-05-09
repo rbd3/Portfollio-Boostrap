@@ -11,5 +11,9 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.2.3"
   }
 }
