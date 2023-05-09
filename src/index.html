@@ -32,8 +32,8 @@
           </nav>
     </header>
 
-    <section class="container-fluid w-75 vh-100 d-flex justify-content-center align-items-center">
-        <div class="container-fluid">
+    <section class="welcome-section container-fluid w-100 vh-100 d-flex justify-content-center align-items-center">
+        <div class="container-fluid w-75">
             <div class="container">
                 <div class="row row-cols-1">
                     <h1 class="col fw-bold">I'm Narson <br>Glad to see you!</h1>
@@ -65,7 +65,7 @@
     </section>
     
     <secion class="container-fluid w-100  d-flex flex-column justify-content-center align-items-center bg-light py-5" id="portfolio">
-        <div class="card mb-3 p-3 mt-5" style="max-width: 750px;">
+        <div class="card mb-3 p-3 mt-5" style="max-width: 950px;">
             <div class="row">
               <div class="col-md-6">
                 <img src="media/Snapshoot Portfolio(1).png" class="img-fluid rounded-start h-100" alt="Snapshoot Portfolio 1">
@@ -87,7 +87,7 @@
             </div>
         </div>
         <!-- card end-->
-        <div class="card mb-3 p-3 mt-5" style="max-width: 750px;">
+        <div class="card mb-3 p-3 mt-5" style="max-width: 950px;">
             <div class="row">
               <div class="col-md-6">
                 <div class="card-body">
@@ -110,7 +110,7 @@
             </div>
         </div>
         <!-- card end-->
-        <div class="card mb-3 p-3 mt-5" style="max-width: 750px;">
+        <div class="card mb-3 p-3 mt-5" style="max-width: 950px;">
             <div class="row">
               <div class="col-md-6">
                 <img src="media/Snapshoot Portfolio.png" class="img-fluid rounded-start h-100" alt="Snapshoot Portfolio 1">
@@ -132,7 +132,7 @@
             </div>
         </div>
         <!-- card end-->
-        <div class="card mb-3 p-3 mt-5" style="max-width: 750px;">
+        <div class="card mb-3 p-3 mt-5" style="max-width: 950px;">
             <div class="row">
               <div class="col-md-6">
                 <div class="card-body">
@@ -157,8 +157,8 @@
         <!-- card end-->
     </secion>
 
-    <section class="container-fluid w-100  d-flex justify-content-evenly align-items-center p-5 row row-cols-2">
-        <div>
+    <section class="container-fluid w-100 d-flex justify-content-evenly align-items-center p-5 row row-cols-2" id="about">
+        <div class="p-5">
             <h2 >About Myself</h2>
             <p>Hello I’m a software developer! I can help you build a product , feature or website. 
                 Look through some of my work and experience! 
@@ -184,7 +184,7 @@
                     </div>
                     <button class="btn border border-primary text-primary fs-5 mt-5" href="#" role="button">Get my resume</button>
         </div>
-        <div>
+        <div class="p-5">
             <div class="accordion bg-transparent " id="accordionExample">
                 <div class="accordion-item border-0">
                   <h2 class="accordion-header" id="headingOne">
@@ -244,6 +244,27 @@
                 </div>
               </div>
         </div>
+    </section>
+
+    <section class="contact-section vh-100 d-flex flex-column justify-content-center align-items-center" id="contact">
+        <h2 class="text-white">Contact me</h2>
+        <p class="w-50 px-5 text-center text-white">If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it!</p>
+        <form action="" method="post" class="w-25 d-flex flex-column justify-content-center align-items-stretch">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label"></label>
+                <input type="text" class="form-control rounded-0" id="exampleFormControlInput1" placeholder="Lorem Ipsum">
+                <label for="exampleFormControlInput1" class="form-label"></label>
+                <input type="email" class="form-control rounded-0" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label"></label>
+                <textarea class="form-control rounded-0" id="exampleFormControlTextarea1" placeholder="Write your message here" rows="5"></textarea>
+            </div>
+            <div class="mb-3 align-self-center">
+                <button class="btn border border-primary bg-white text-primary fs-5 mt-2" href="#" role="button">Get in touch</button>
+            </div>
+        </form>
+
     </section>
     <script src="bootstrap.bundle.min.js"></script>
 </body>
