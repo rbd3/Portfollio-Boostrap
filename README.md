@@ -22,9 +22,9 @@
 
 
 
-# 📖 Narson Portfolio <a name="about-project"></a>
+# 📖 Portfolio <a name="about-project"></a>
 
-**Narson Portfolio** is my portfolio page. It show about my background, skills, experience, and projects I have worked on.
+**Portfolio** is my portfolio page. It show about my background, skills, experience, and projects I have worked on.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -91,7 +91,7 @@ To run tests, run the following command:
 
 
 ```sh
-Narson-Portfolio/test.md
+Portfolio-Boostrap/test.md
 ```
 
 ### Deployment
@@ -109,6 +109,12 @@ You don't need a deployment from now.
 - GitHub: [@rbd3](https://github.com/rbd3)
 - Twitter: [@Narson321](https://twitter.com/@Narson321)
 - LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
+
+👤 **Nelly**
+
+- GitHub: [@rbd3](https://github.com/)
+- Twitter: [@Narson321](https://twitter.com/)
+- LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
