@@ -12,7 +12,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -46,8 +45,9 @@
 - **[Mobile view]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://rbd3.github.io/)
+[Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,11 +94,6 @@ To run tests, run the following command:
 Portfolio-Boostrap/test.md
 ```
 
-### Deployment
-
-You don't need a deployment from now.
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -110,11 +105,10 @@ You don't need a deployment from now.
 - Twitter: [@Narson321](https://twitter.com/@Narson321)
 - LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
 
-👤 **Nelly**
+👤 **Nelly Telli**
 
-- GitHub: [](https://github.com/)
-- Twitter: [](https://twitter.com/)
-- LinkedIn: [](https://linkedin.com/in/)
+- GitHub: [@lily4178993](https://github.com/rbd3)
+- LinkedIn: [Nelly T.](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -136,8 +130,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give this repository a 5 star rating.
-
-- https://github.com/rbd3/Narson-Portfolio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
