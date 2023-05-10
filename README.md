@@ -112,9 +112,9 @@ You don't need a deployment from now.
 
 👤 **Nelly**
 
-- GitHub: [@rbd3](https://github.com/)
-- Twitter: [@Narson321](https://twitter.com/)
-- LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/)
+- GitHub: [](https://github.com/)
+- Twitter: [](https://twitter.com/)
+- LinkedIn: [](https://linkedin.com/in/)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
